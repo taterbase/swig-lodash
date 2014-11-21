@@ -1,6 +1,6 @@
 {
   "name": "swig-lodash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use lodash functions as swig filters",
   "main": "index.js",
   "scripts": {
