@@ -1,6 +1,6 @@
 #swig-lodash
 
-Use [lodash](http://lodash.org) functions as [swig](http://paularmstrong.github.io/swig/) filters.
+Use [lodash](http://lodash.com) functions as [swig](http://paularmstrong.github.io/swig/) filters.
 
 ##Install
 `npm install --save swig-lodash`
