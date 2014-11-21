@@ -1,0 +1,23 @@
+{
+  "name": "swig-lodash",
+  "version": "1.0.0",
+  "description": "Use lodash functions as swig filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swig",
+    "lodash"
+  ],
+  "author": "taterbase",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taterbase/swig-lodash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taterbase/swig-lodash/issues"
+  },
+  "homepage": "https://github.com/taterbase/swig-lodash"
+}
