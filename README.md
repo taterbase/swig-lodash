@@ -15,10 +15,10 @@ var swigLodash = require('swig-lodash')
 swigLodash.useFilter(swig)
 
 //Add only one lodash function
-swigLodash.useFilter(swig, 'find') //Adds only the find lodash function
+swigLodash.useFilter(swig, 'find')
 
 //Add multiple lodash functions
-swigLodash.useFilter(swig, ['groupBy', 'shuffle']) //Adds both groupBy and shuffle functions
+swigLodash.useFilter(swig, ['groupBy', 'shuffle'])
 ```
 
 Now you can use the lodash functions as a swig filter.
