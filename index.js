@@ -6,8 +6,10 @@ function useFilter(swig, filter) {
       if (lodashHas(action))
         useFilter(swig, action)
     })
-  } else if (Array.isArray(filter)) {
-    filter.forEach(function(f) {
+  }
+  
+  if (Array.isArray(filter)) {
+    return filter.forEach(function(f) {
       useFilter(swig, f)
     })
   }
